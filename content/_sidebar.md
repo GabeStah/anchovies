@@ -1,7 +1,7 @@
 - **Glory of the Shadowlands Hero**
-  - **De Other Side**
-  - **Halls of Atonement**
-  - **Mists of Tirna Scithe**
+  - **De Other Side** <span class="badge bg-yellow">Coming Soon</span>
+  - **Halls of Atonement** <span class="badge bg-yellow">Coming Soon</span>
+  - **Mists of Tirna Scithe** <span class="badge bg-yellow">Coming Soon</span>
   - **The Necrotic Wake**
     - [Bountiful Harvest](glory-of-the-shadowlands-hero/necrotic-wake/bountiful-harvest.md)
     - [Ready for Raiding VII](glory-of-the-shadowlands-hero/necrotic-wake/ready-for-raiding-vii.md)
@@ -10,11 +10,11 @@
     - [Full Gores Meal](glory-of-the-shadowlands-hero/plaguefall/full-gores-meal.md)
     - [Going Viral](glory-of-the-shadowlands-hero/plaguefall/going-viral.md)
     - [Riding with my Slimes](glory-of-the-shadowlands-hero/plaguefall/riding-with-my-slimes.md)
-  - **Sanguine Depths**
+  - **Sanguine Depths** <span class="badge bg-green">New</span>
     - [Residue Evil](glory-of-the-shadowlands-hero/sanguine-depths/residue-evil.md)
     - [I Only Have Eyes For You](glory-of-the-shadowlands-hero/sanguine-depths/i-only-have-eyes-for-you.md)
     - [Kaal-ed Shot](glory-of-the-shadowlands-hero/sanguine-depths/kaaled-shot.md)
-  - **Spires of Ascension**
+  - **Spires of Ascension** <span class="badge bg-green">New</span>
     - [Goliath Offline](glory-of-the-shadowlands-hero/spires-of-ascension/goliath-offline.md)
     - [ExSPEARiential](glory-of-the-shadowlands-hero/spires-of-ascension/exspeariential.md)
     - [I Can See My House From Here](glory-of-the-shadowlands-hero/spires-of-ascension/i-can-see-my-house-from-here.md)

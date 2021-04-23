@@ -21,7 +21,7 @@ difficulty:
     style: 'color: red;'
     name: Hard
   very_hard:
-    style: 'color: darkred;'
+    style: 'color: #da0000;'
     name: Very Hard
 requirement: Defeat all bosses while affected by Plaguefallen within a single visit in Plaguefall on Mythic difficulty.
 title: '[Riding with my Slimes](https://www.wowhead.com/achievement=14292/riding-with-my-slimes)'

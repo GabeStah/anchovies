@@ -18,7 +18,7 @@ difficulty:
     style: 'color: red;'
     name: Hard
   very_hard:
-    style: 'color: darkred;'
+    style: 'color: #da0000;'
     name: Very Hard
 requirement: Defeat Globgrog after feeding him a three course meal in Plaguefall on Mythic difficulty.
 title: '[Full Gores Meal](https://www.wowhead.com/achievement=14347/full-gores-meal)'

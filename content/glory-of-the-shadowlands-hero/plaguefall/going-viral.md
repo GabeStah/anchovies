@@ -18,7 +18,7 @@ difficulty:
     style: 'color: red;'
     name: Hard
   very_hard:
-    style: 'color: darkred;'
+    style: 'color: #da0000;'
     name: Very Hard
 requirement: Defeat Doctor Ickus after destroying 2 Volatile Plague Bombs in Plaguefall on Mythic difficulty.
 title: '[Going Viral](https://www.wowhead.com/achievement=14296/going-viral)'

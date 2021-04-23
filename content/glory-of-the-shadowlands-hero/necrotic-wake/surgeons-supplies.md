@@ -17,7 +17,7 @@ difficulty:
     style: 'color: red;'
     name: Hard
   very_hard:
-    style: 'color: darkred;'
+    style: 'color: #da0000;'
     name: Very Hard
 requirement: Defeat Surgeon Stitchflesh after destroying two barrels of spare parts in the Necrotic Wake on Mythic difficulty.
 title: "[Surgeon's Supplies](https://www.wowhead.com/achievement=14320/surgeons-supplies)"

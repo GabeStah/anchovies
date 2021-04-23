@@ -17,7 +17,7 @@ difficulty:
     style: 'color: red;'
     name: Hard
   very_hard:
-    style: 'color: darkred;'
+    style: 'color: #da0000;'
     name: Very Hard
 requirement: Defeat Amarth <The Harvester> after he"s consumed the corpse of a Grisly Colossus using Final Harvest in the Necrotic Wake on Mythic difficulty.
 title: '[Bountiful Harvest](https://www.wowhead.com/achievement=14295/bountiful-harvest)'

@@ -19,7 +19,7 @@ difficulty:
     style: 'color: red;'
     name: Hard
   very_hard:
-    style: 'color: darkred;'
+    style: 'color: #da0000;'
     name: Very Hard
 requirement: Defeat Nalthor the Rimebinder without being struck by Comet Storm, Blizzard, or the secondary effect of Frozen Binds in the Necrotic Wake on Mythic difficulty.
 title: '[Ready for Raiding VII](https://www.wowhead.com/achievement=14285/ready-for-raiding-vii)'

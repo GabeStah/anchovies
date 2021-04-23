@@ -11,8 +11,13 @@
     - [Going Viral](glory-of-the-shadowlands-hero/plaguefall/going-viral.md)
     - [Riding with my Slimes](glory-of-the-shadowlands-hero/plaguefall/riding-with-my-slimes.md)
   - **Sanguine Depths**
+    - [Residue Evil](glory-of-the-shadowlands-hero/sanguine-depths/residue-evil.md)
+    - [I Only Have Eyes For You](glory-of-the-shadowlands-hero/sanguine-depths/i-only-have-eyes-for-you.md)
+    - [Kaal-ed Shot](glory-of-the-shadowlands-hero/sanguine-depths/kaaled-shot.md)
   - **Spires of Ascension**
     - [Goliath Offline](glory-of-the-shadowlands-hero/spires-of-ascension/goliath-offline.md)
+    - [ExSPEARiential](glory-of-the-shadowlands-hero/spires-of-ascension/exspeariential.md)
+    - [I Can See My House From Here](glory-of-the-shadowlands-hero/spires-of-ascension/i-can-see-my-house-from-here.md)
   - **Theater of Pain**
     - [Fresh Meat!](glory-of-the-shadowlands-hero/theater-of-pain/fresh-meat.md)
     - [Royal Rumble](glory-of-the-shadowlands-hero/theater-of-pain/royal-rumble.md)

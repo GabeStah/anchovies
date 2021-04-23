@@ -30,7 +30,7 @@ zone: '[Spires of Ascension](https://www.wowhead.com/zone=12837)'
 _{{ requirement }}_
 
 > - Boss: {{ data.boss }}
-> - Difficulty: **<span style="{{ difficulty.very_easy.style }}">{{ difficulty.very_easy.name }}</span>**
+> - Difficulty: **<span style="{{ difficulty.easy.style }}">{{ difficulty.easy.name }}</span>**
 > - Type: **{{ type }}**
 > - Zone: {{ zone }}
 

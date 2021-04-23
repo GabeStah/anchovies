@@ -49,6 +49,12 @@
         color: #fff;
         font-weight: bolder;
       }
+      .markdown-section thead {
+        background-color: #f8f8f800;
+      }
+      .markdown-section tr:nth-child(2n) {
+        background-color: #f8f8f83f;
+      }
     </style>
   </head>
   <body>
@@ -68,7 +74,7 @@
             var footer = [
               '<hr/>',
               '<footer>',
-              `<span><a href="${url}">📝Edit via GitHub</a></span>`,
+              `<span><a href="${url}" target="_blank">📝Edit via GitHub</a></span>`,
               ' - ',
               '<span>&copy; 2021 <a href="mailto:gabe@gabewyatt.com">Gabe Wyatt</a></span>',
               ' - ',

@@ -12,4 +12,8 @@
     - [Riding with my Slimes](glory-of-the-shadowlands-hero/plaguefall/riding-with-my-slimes.md)
   - **Sanguine Depths**
   - **Spires of Ascension**
+    - [Goliath Offline](glory-of-the-shadowlands-hero/spires-of-ascension/goliath-offline.md)
   - **Theater of Pain**
+    - [Fresh Meat!](glory-of-the-shadowlands-hero/theater-of-pain/fresh-meat.md)
+    - [Royal Rumble](glory-of-the-shadowlands-hero/theater-of-pain/royal-rumble.md)
+    - [Three Choose One](glory-of-the-shadowlands-hero/theater-of-pain/three-choose-one.md)

@@ -1,6 +1,6 @@
 ---
 data:
-  add: 'www.wowhead.com/npc=171456/shattered-devastator'
+  add: '[Shattered Devastator](https://www.wowhead.com/npc=171456/shattered-devastator)'
   boss: '[Oryphrion](https://www.wowhead.com/npc=162060/oryphrion)'
   ordnance: '[Empyreal Ordnance](https://www.wowhead.com/spell=324444/empyreal-ordnance)'
 difficulty:

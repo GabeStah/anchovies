@@ -1,0 +1,19 @@
+{
+  "name": "anchovies",
+  "version": "1.0.0",
+  "description": "Get all the anchovies!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeStah/anchovies.git"
+  },
+  "author": "Gabe Wyatt <gabe@gabewyatt.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeStah/anchovies/issues"
+  },
+  "homepage": "https://github.com/GabeStah/anchovies#readme"
+}

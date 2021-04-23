@@ -1,0 +1,15 @@
+- **Glory of the Shadowlands Hero**
+  - **De Other Side**
+  - **Halls of Atonement**
+  - **Mists of Tirna Scithe**
+  - **The Necrotic Wake**
+    - [Bountiful Harvest](glory-of-the-shadowlands-hero/necrotic-wake/bountiful-harvest.md)
+    - [Ready for Raiding VII](glory-of-the-shadowlands-hero/necrotic-wake/ready-for-raiding-vii.md)
+    - [Surgeon's Supplies](glory-of-the-shadowlands-hero/necrotic-wake/surgeons-supplies.md)
+  - **Plaguefall**
+    - [Full Gores Meal](glory-of-the-shadowlands-hero/plaguefall/full-gores-meal.md)
+    - [Going Viral](glory-of-the-shadowlands-hero/plaguefall/going-viral.md)
+    - [Riding with my Slimes](glory-of-the-shadowlands-hero/plaguefall/riding-with-my-slimes.md)
+  - **Sanguine Depths**
+  - **Spires of Ascension**
+  - **Theater of Pain**

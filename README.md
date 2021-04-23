@@ -1,6 +1,6 @@
 # Anchovies
 
-Get all the World of Warcraft achievements!
+Get ALL the achievements!
 
 ## Development
 

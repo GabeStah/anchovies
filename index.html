@@ -55,23 +55,27 @@
     <div id="app">Loading...</div>
     <script>
       const plugins = [
-        function (hook) {
+        function (hook, vm) {
           // hook.beforeEach(function (content) {
           //   // Invoked each time before parsing the Markdown file.
           //   // ...
           //   return '# Hello World\n\n' + content;
           // });
 
-          var footer = [
-            '<hr/>',
-            '<footer>',
-            '<span>&copy; 2021 <a href="mailto:gabe@gabewyatt.com">Gabe Wyatt</a></span>',
-            ' - ',
-            '<span>Created with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a></span>',
-            '</footer>',
-          ].join('');
-
           hook.afterEach(function (html) {
+            var url = `${window.$docsify.repo}/edit/main/content/${vm.route.file}`;
+
+            var footer = [
+              '<hr/>',
+              '<footer>',
+              `<span><a href="${url}">📝Edit via GitHub</a></span>`,
+              ' - ',
+              '<span>&copy; 2021 <a href="mailto:gabe@gabewyatt.com">Gabe Wyatt</a></span>',
+              ' - ',
+              '<span>Created with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a></span>',
+              '</footer>',
+            ].join('');
+
             return html + footer;
           });
         },
@@ -99,7 +103,7 @@
         loadSidebar: true,
         name: 'Anchovies',
         plugins: plugins,
-        repo: '',
+        repo: 'https://github.com/GabeStah/anchovies',
         subMaxLevel: 3,
         sidebarDisplayLevel: 2,
         themeColor: '#42b983',

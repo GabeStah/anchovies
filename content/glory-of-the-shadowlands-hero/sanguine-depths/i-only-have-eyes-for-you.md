@@ -36,10 +36,10 @@ _{{ requirement }}_
 
 ## Zone Achievements Order
 
-If you're doing all the {{ zone }} achievements in one run then **DO NOT** start {{ title }} until both [Residue Evil](residue-evil.md) and [Kaal-ed Shot](kaaled-shot.md) have been completed/attempted that run. The ideal order is:
+If you're doing all the {{ zone }} achievements in one run then **DO NOT** start {{ title }} until both [Residue Evil](residue-evil ':relative') and [Kaal-ed Shot](kaaled-shot ':relative') have been completed/attempted that run. The ideal order is:
 
-- [Residue Evil](residue-evil.md)
-- [Kaal-ed Shot](kaaled-shot.md)
+- [Residue Evil](residue-evil ':relative')
+- [Kaal-ed Shot](kaaled-shot ':relative')
 - {{ title }}
 
 ## Details

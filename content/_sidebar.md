@@ -1,24 +1,34 @@
+- **Tazavesh, the Veiled Market** <span class="badge bg-yellow">Soon&trade;</span>
 - **Glory of the Shadowlands Hero**
-  - **De Other Side** <span class="badge bg-yellow">Coming Soon</span>
-  - **Halls of Atonement** <span class="badge bg-yellow">Coming Soon</span>
-  - **Mists of Tirna Scithe** <span class="badge bg-yellow">Coming Soon</span>
+  - **De Other Side**
+    - [Couple's Therapy](glory-of-the-shadowlands-hero/de-other-side/couples-therapy.md)
+    - [Thinking With](glory-of-the-shadowlands-hero/de-other-side/thinking-with.md)
+    - [Highly Communicable](glory-of-the-shadowlands-hero/de-other-side/highly-communicable.md)
+  - **Halls of Atonement**
+    - [Picking Up the Pieces](glory-of-the-shadowlands-hero/halls-of-atonement/picking-up-the-pieces.md)
+    - [Breaking Bad](glory-of-the-shadowlands-hero/halls-of-atonement/breaking-bad.md)
+    - [Nobody Puts Denathrius in a Corner](glory-of-the-shadowlands-hero/halls-of-atonement/nobody-puts-denathrius-in-a-corner.md)
+  - **Mists of Tirna Scithe**
+    - [Hooked on Hydroponics](glory-of-the-shadowlands-hero/mists-of-tirna-scithe/hooked-on-hydroponics.md)
+    - [Someone Could Trip on These](glory-of-the-shadowlands-hero/mists-of-tirna-scithe/someone-could-trip-on-these.md)
+    - [Hunger for Knowledge](glory-of-the-shadowlands-hero/mists-of-tirna-scithe/hunger-for-knowledge.md)
   - **The Necrotic Wake**
     - [Bountiful Harvest](glory-of-the-shadowlands-hero/necrotic-wake/bountiful-harvest.md)
-    - [Ready for Raiding VII](glory-of-the-shadowlands-hero/necrotic-wake/ready-for-raiding-vii.md)
     - [Surgeon's Supplies](glory-of-the-shadowlands-hero/necrotic-wake/surgeons-supplies.md)
+    - [Ready for Raiding VII](glory-of-the-shadowlands-hero/necrotic-wake/ready-for-raiding-vii.md)
   - **Plaguefall**
     - [Full Gores Meal](glory-of-the-shadowlands-hero/plaguefall/full-gores-meal.md)
     - [Going Viral](glory-of-the-shadowlands-hero/plaguefall/going-viral.md)
     - [Riding with my Slimes](glory-of-the-shadowlands-hero/plaguefall/riding-with-my-slimes.md)
-  - **Sanguine Depths** <span class="badge bg-green">New</span>
+  - **Sanguine Depths**
     - [Residue Evil](glory-of-the-shadowlands-hero/sanguine-depths/residue-evil.md)
     - [I Only Have Eyes For You](glory-of-the-shadowlands-hero/sanguine-depths/i-only-have-eyes-for-you.md)
     - [Kaal-ed Shot](glory-of-the-shadowlands-hero/sanguine-depths/kaaled-shot.md)
-  - **Spires of Ascension** <span class="badge bg-green">New</span>
+  - **Spires of Ascension**
     - [Goliath Offline](glory-of-the-shadowlands-hero/spires-of-ascension/goliath-offline.md)
     - [ExSPEARiential](glory-of-the-shadowlands-hero/spires-of-ascension/exspeariential.md)
     - [I Can See My House From Here](glory-of-the-shadowlands-hero/spires-of-ascension/i-can-see-my-house-from-here.md)
   - **Theater of Pain**
+    - [Three Choose One](glory-of-the-shadowlands-hero/theater-of-pain/three-choose-one.md)
     - [Fresh Meat!](glory-of-the-shadowlands-hero/theater-of-pain/fresh-meat.md)
     - [Royal Rumble](glory-of-the-shadowlands-hero/theater-of-pain/royal-rumble.md)
-    - [Three Choose One](glory-of-the-shadowlands-hero/theater-of-pain/three-choose-one.md)

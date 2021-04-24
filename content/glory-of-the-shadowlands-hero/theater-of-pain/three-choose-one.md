@@ -37,12 +37,12 @@ _{{ requirement }}_
 
 ## Details
 
-!> This achievement requires at least (3) separate kills of the {{ data.boss }} encounter.
+!> This achievement requires at least `3` separate kills of the {{ data.boss }} encounter.
 
 > If desired, the group may defeat the encounter, zone out, reset the instance, and complete the encounter again.
 
 ## Strategy
 
-1. Decide which of the (3) bosses to kill last.
+1. Decide which of the `3` bosses to kill last.
 2. Kill that boss last.
 3. Repeat steps 1 - 2 two more times on subsequent visits until all bosses have been killed last.

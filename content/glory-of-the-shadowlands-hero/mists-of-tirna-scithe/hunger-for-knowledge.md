@@ -43,7 +43,7 @@ _{{ requirement }}_
 ## Strategy
 
 1. Clear trash leading up to {{ data.boss }} as normal.
-2. CC at least (1) {{ data.add }} within the preceding packs.
+2. CC at least `1` {{ data.add }} within the preceding packs.
 3. Pull the {{ data.add }} next to {{ data.boss }}.
 4. Patiently wait for the {{ data.add }} to become an **Enlightened** version.
 5. Agro and kill the **Enlightened Spinemaw Gorger**.

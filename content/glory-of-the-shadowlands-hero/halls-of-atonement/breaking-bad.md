@@ -49,7 +49,7 @@ _{{ requirement }}_
 
 Shift-click the {{ title }} achievement to track it, so you can visually see when the `18` {{ data.add }} credit is applied. You won't _receive_ the achievement until {{ data.boss }} dies afterward, but watching for the achievement prerequisite to turn white indicates that you're clear to kill the boss.
 
-!> Use (2) healers if possible, as there is _a lot_ of damage toward the ends of this achievement.
+!> Use `2` healers if possible, as there is _a lot_ of damage toward the ends of this achievement.
 
 ## Strategy
 

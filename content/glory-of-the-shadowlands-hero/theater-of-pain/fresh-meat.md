@@ -35,12 +35,12 @@ _{{ requirement }}_
 
 ## Details
 
-- There are (2) piles of meat in the room; one in the front-left corner and one in the back-right corner.
+- There are `2` piles of meat in the room; one in the front-left corner and one in the back-right corner.
 - If {{ data.boss }} is within a few yards of a meat pile while casting {{ data.smash }} the pile will break apart.
 
 ## Strategy
 
-1. The tank moves {{ data.boss }} to (1) of the two meat piles.
+1. The tank moves {{ data.boss }} to `1` of the two meat piles.
 
 !> The tank will likely have to momentarily step into the dangerous outside ring to get {{ data.boss }} close enough to the pile.
 

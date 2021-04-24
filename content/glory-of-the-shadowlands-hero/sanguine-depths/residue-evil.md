@@ -37,7 +37,7 @@ _{{ requirement }}_
 
 ## Details
 
-- There are a total of (8) non-aggressive, non-agroable {{ data.captive }} standing in jail cells around the circular arena.
+- There are a total of `8` non-aggressive, non-agroable {{ data.captive }} standing in jail cells around the circular arena.
 - While fighting {{ data.boss }} the {{ data.add }} he spawns will drop {{ data.residue }} pools when killed.
   - The radius of the {{ data.residue }} pool is based on the _energy_ total the {{ data.add }} had when it died.
 - Any {{ data.captive }} will typically die if it is within the radius of a {{ data.residue }} pool.
@@ -49,7 +49,7 @@ _{{ requirement }}_
 - Clear **ALL** aggressive trash in the entire ring area, including all mobs within jail cells, just to be safe and ensure no surprises during the achievement attempt.
 - While doing so, use raid markers to indicate the cell locations that contain {{ data.captive }}.
 
-!> It is **HIGHLY** recommended you use (2) healers for this achievement. There is no DPS requirement (just a lot of movement and waiting around), so survival is most important.
+!> It is **HIGHLY** recommended you use `2` healers for this achievement. There is no DPS requirement (just a lot of movement and waiting around), so survival is most important.
 
 ## Strategy
 
@@ -57,5 +57,5 @@ _{{ requirement }}_
 2. Wait for a {{ data.add }} to spawn and reach 70+ energy, then kill it next to the cell door.
 3. The tank and most of the group should move around toward the next cell marker.
 4. Meanwhile, one player can stay behind and confirm the {{ data.captive }} inside have perished.
-5. Repeat until all (8) {{ data.captive }} are killed.
+5. Repeat until all `8` {{ data.captive }} are killed.
 6. Finish {{ data.boss }} as normal.

@@ -43,5 +43,5 @@ _{{ requirement }}_
 ## Strategy
 
 1. Engage {{ data.boss }} but hold DPS to avoid killing him too soon.
-2. Hook (2) {{ data.spare_parts }} barrels with {{ data.meat_hook }}.
+2. Hook `2` {{ data.spare_parts }} barrels with {{ data.meat_hook }}.
 3. Confirm the {{ title }} achievement has white-status then kill {{ data.boss }}.

@@ -54,25 +54,25 @@ _{{ requirement }}_
 
 !> Clear **ALL** trash within the zone before engaging {{ data.hakkar }} to begin the achievement.
 
-> Use (2) healers if possible since all {{ data.blood }}-afflicted players will take `586` DPS from the DoT.
+> Use `2` healers if possible since all {{ data.blood }}-afflicted players will take `586` DPS from the DoT.
 
-- Assign (3) people to be the **Blood Group** -- These people will constantly maintain {{ data.blood }} throughout clear.
-- While only (2) people are required, using (3) ensures a bit of redundancy in the case of a mistake or bug.
+- Assign `3` people to be the **Blood Group** -- These people will constantly maintain {{ data.blood }} throughout clear.
+- While only `2` people are required, using `3` ensures a bit of redundancy in the case of a mistake or bug.
 
-> Suggested players: Healers and ranged DPS capable of self-healing (e.g. Boomkin, Ele Shaman, SHadow Priest)
+> Suggested players for the **Blood Group** are healers and ranged DPS capable of self-healing (e.g. Boomkin, Ele Shaman, Shadow Priest).
 
 ## Strategy
 
 1. Engage {{ data.hakkar }}.
 
-Ensure the **Blood Group** players are stacked together and obtain {{ data.blood }} prior to killing {{ data.hakkar }}.
+> Ensure the **Blood Group** players are stacked together and obtain {{ data.blood }} prior to killing {{ data.hakkar }}.
 
-2. A healer and (1) other **Blood Group** member should always form a pair when traveling via mounts. Use a sidecar mount at all times.
+2. A healer and `1` other **Blood Group** member should always form a pair when traveling via mounts. Use a sidecar mount at all times.
 3. Go to Mechagon.
 4. Engage and kill {{ data.manastorms }}.
 5. Go to Ardenweald.
 6. Engage and kill {{ data.dealer }}.
-7. For {{ data.muehzala }}, split the group into two separate portal groups, each with (1) **Blood Group** healer and (1-2) other to separate portals.
-8. Engage {{ data.muehzala }} and kill (2) assigned portal adds/totems.
-9. Repeat for remaining (2) portal adds/totems.
+7. For {{ data.muehzala }}, split the group into two separate portal groups, each with `1` **Blood Group** healer and (1-2) other to separate portals.
+8. Engage {{ data.muehzala }} and kill `2` assigned portal adds/totems.
+9. Repeat for remaining `2` portal adds/totems.
 10. Finish {{ data.muehzala }} as normal.

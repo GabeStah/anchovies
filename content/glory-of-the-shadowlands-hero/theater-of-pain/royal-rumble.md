@@ -35,7 +35,7 @@ _{{ requirement }}_
 
 ## Details
 
-- When {{ data.boss }} reaches 50% health (2) targetable {{ data.ghost }} mobs will appear in the crowd around the arena.
+- When {{ data.boss }} reaches 50% health `2` targetable {{ data.ghost }} mobs will appear in the crowd around the arena.
 - Targeting a {{ data.ghost }} and typing `/challenge` activates the mob and makes them attackable.
 
 > Any living {{ data.ghost }} will remain active and attackable if the group wipes or the fight is reset.

@@ -36,13 +36,13 @@ _{{ requirement }}_
 
 ## Details
 
-- During the {{ data.boss }} encounter (5) pairs of angels are fighting above the platform.
+- During the {{ data.boss }} encounter `5` pairs of angels are fighting above the platform.
 - When a pair of angels dies a floating {{ data.spear }} remains in the air.
 - Interacting with a floating {{ data.spear }} keeps the player stationary and provides an extra action button to throw the spear, similar to the Phase 2 central spear during the normal encounter.
 - Dropping off the front of the platform during the fight launches the player high into the air and provides a slow-fall wings buff.
 - If a player drops off during Phase 2 the encounter winds effect will push the player more in that respective direction.
 
-> The goal is to have **one** assigned player drop off the platform, float toward a {{ data.spear }}, and throw the spear at {{ data.boss }}. This process should be completed (5) times which will give {{ data.boss }} five debuff stacks.
+> The goal is to have **one** assigned player drop off the platform, float toward a {{ data.spear }}, and throw the spear at {{ data.boss }}. This process should be completed `5` times which will give {{ data.boss }} five debuff stacks.
 
 ## Planning
 
@@ -56,7 +56,7 @@ It is recommended that only one player handle {{ data.spear }} throwing througho
 
 ## Strategy
 
-!> Regardless of strategy it is **highly** recommended to use (2) healers, as DPS checks are nonexistent.
+!> Regardless of strategy it is **highly** recommended to use `2` healers, as DPS checks are nonexistent.
 
 ### Ground Phase Strategy
 
@@ -65,12 +65,12 @@ It is recommended that only one player handle {{ data.spear }} throwing througho
 1. Tank engages {{ data.boss }} as normal.
 2. DPS should avoid attacking {{ data.boss }} lest she be pushed into her air phase too early.
 3. The assigned {{ data.spear }} player should drop off the platform almost immediately to throw the first spear.
-4. Repeat a few more times until all (5) {{ data.spear }} are thrown, or until no more angel pairs are dying.
+4. Repeat a few more times until all `5` {{ data.spear }} are thrown, or until no more angel pairs are dying.
 5. Push {{ data.boss }} into the first air phase.
 6. Throw the normal ground {{ data.spear }} after collecting orbs.
-7. Back in ground phase, repeat step 3 until all (5) {{ data.spear }} have hit {{ data.boss }}.
+7. Back in ground phase, repeat step 3 until all `5` {{ data.spear }} have hit {{ data.boss }}.
 
-!> If all (5) {{ data.spear }} are utilized but {{ data.boss }} _does not_ have (5) debuff stacks the attempt has failed. Wipe and try again.
+!> If all `5` {{ data.spear }} are utilized but {{ data.boss }} _does not_ have `5` debuff stacks the attempt has failed. Wipe and try again.
 
 8. Kill {{ data.boss }} as normal.
 

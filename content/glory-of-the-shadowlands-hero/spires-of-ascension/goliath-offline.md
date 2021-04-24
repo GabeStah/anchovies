@@ -36,7 +36,7 @@ _{{ requirement }}_
 
 ## Details
 
-- (3) inanimate {{ data.add }} are spread around the room.
+- `3` inanimate {{ data.add }} are spread around the room.
 - Blue Anima Fields spawn at player locations when {{ data.boss }} casts {{ data.ordnance }}.
 - An individual {{ data.add }} is activated when hit by a {{ data.ordnance }} Animal Field.
 
@@ -59,8 +59,8 @@ With relatively weak group gear/DPS:
 
 With strong group gear/DPS:
 
-1. Have (1) non-tank player each preemptively stand underneath each {{ data.add }}.
+1. Have `1` non-tank player each preemptively stand underneath each {{ data.add }}.
 2. Tank pulls {{ data.boss }} to front-center of room and awaits {{ data.ordnance }}.
-3. Once Anima Fields spawn all (3) {{ data.add }} will activate.
+3. Once Anima Fields spawn all `3` {{ data.add }} will activate.
 4. Group up {{ data.add }} and burn them down.
 5. Kill {{ data.boss }}.

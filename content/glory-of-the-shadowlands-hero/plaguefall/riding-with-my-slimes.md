@@ -41,8 +41,8 @@ _{{ requirement }}_
 ## Details
 
 - The {{ title }} achievement must be obtained within a _single run_ of {{ zone }}.
-- Standing within almost any slime pool around the dungeon applies (1) stack of {{ data.concentrated_plague }}.
-- Reaching (10) stacks of {{ data.concentrated_plague }} removes ALL stacks of {{ data.concentrated_plague }} and applies a new 120 second {{ data.plaguefallen }} debuff, which reduces movement speed significantly and lowers haste.
+- Standing within almost any slime pool around the dungeon applies `1` stack of {{ data.concentrated_plague }}.
+- Reaching `10` stacks of {{ data.concentrated_plague }} removes ALL stacks of {{ data.concentrated_plague }} and applies a new 120 second {{ data.plaguefallen }} debuff, which reduces movement speed significantly and lowers haste.
 
 !> Dying **is** OK and will not prevent the ability to obtain the achievement. However, being dead the instant a given boss dies **will not** give you credit for that boss.
 

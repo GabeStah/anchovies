@@ -41,7 +41,7 @@ _{{ requirement }}_
 
 > This achievement can be attempted as many times as necessary within a given instance, so don't fret a couple failed attempts.
 
-- (5) Orbs are floating around the dungeon, _far_ up in the sky.
+- `5` Orbs are floating around the dungeon, _far_ up in the sky.
 - {{ data.orb1front }} is located directly out from the {{ data.boss }} platform.
 - {{ data.orb2left }}, {{ data.orb3middle }}, and {{ data.orb4right }} are located above the central dungeon platforms, respective to their assigned direction name (see below):
 
@@ -71,7 +71,7 @@ Orbs also have a respawn time of `180` seconds.
 
 ## Planning
 
-Assign all (5) party members to a specific Orb. In general, the further away the Orb the more difficult it is to reach.
+Assign all `5` party members to a specific Orb. In general, the further away the Orb the more difficult it is to reach.
 
 > {{ data.orb1front }} player must be capable of a personal slow-fall effect. This player will need to explicitly click off their wings buff after collecting {{ data.orb1front }}, and it is critical that this player does not die or the achievement will fail.
 

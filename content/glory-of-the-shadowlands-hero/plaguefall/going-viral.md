@@ -37,7 +37,7 @@ _{{ requirement }}_
 
 ## Details
 
-- {{ data.boss }} jumps between all (4) side platforms prior to engagement.
+- {{ data.boss }} jumps between all `4` side platforms prior to engagement.
 - The table on the front-right platform has a clickable {{ data.vial }} vial.
 - Picking up the {{ data.vial }} gives a 10-second duration buff with a timer indicator above the player's head.
   - It also provides a new extra action ability.
@@ -52,13 +52,13 @@ _{{ requirement }}_
 
 ### Before Engagement
 
-1. Split up the group with (1) person nearby each of the (4) platforms, along with the remaining player also at the front-right platform. These people will be the {{ data.vial }} vial runners.
+1. Split up the group with `1` person nearby each of the `4` platforms, along with the remaining player also at the front-right platform. These people will be the {{ data.vial }} vial runners.
 2. Ensure nobody gets in range of {{ data.boss }}.
 3. Player #1 standing on the front-right platform clicks {{ data.vial }} and immediately presses their extra action button to throw it in the cauldron.
 4. The {{ data.vial }} vial will immediately respawn.
 5. Player #2 standing at front-right immediately picks up {{ data.vial }} and runs it to the next platform, spamming their extra action button. This process must be completed within 10 seconds without agroing the boss.
 6. Person #3 waiting at the next platform clicks the {{ data.vial }} vial, runs to the next platform, and the process repeats.
-7. Once all (4) cauldrons are turned purple you may engage the boss.
+7. Once all `4` cauldrons are turned purple you may engage the boss.
 
 ### During Fight
 

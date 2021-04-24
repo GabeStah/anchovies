@@ -39,8 +39,8 @@ During each phase the normal mechanics target random party members with arrow ma
 ## Strategy
 
 1. Do the fight as normal.
-2. For Millhouse, the (2) targeted players stands on either side of the boss so he is hit by the Laser from Millificent.
-3. For Millificent, the (1) targeted player stands within 10 yards of the boss so she is hit by the Shadowfury from Millhouse.
+2. For Millhouse, the `2` targeted players stands on either side of the boss so he is hit by the Laser from Millificent.
+3. For Millificent, the `1` targeted player stands within 10 yards of the boss so she is hit by the Shadowfury from Millhouse.
 
 > If your group DPS is especially high, be careful not to initially push Millhouse to 10%, as doing so may prevent you from being unable to deal with Millificent's abilities.
 

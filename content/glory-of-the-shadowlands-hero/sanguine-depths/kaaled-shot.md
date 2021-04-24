@@ -39,8 +39,8 @@ _{{ requirement }}_
 
 ## Details
 
-- (5) {{ data.container }} sit on the right side of the {{ data.boss }} gauntlet hallway.
-- Opening a container applies the {{ data.ball }} debuff which deals minor Shadow damage every (4) seconds.
+- `5` {{ data.container }} sit on the right side of the {{ data.boss }} gauntlet hallway.
+- Opening a container applies the {{ data.ball }} debuff which deals minor Shadow damage every `4` seconds.
 
 !> Once you activate a {{ data.container }} you have **one chance** to get through the {{ data.boss }} gauntlet, complete the achievement, and defeat the boss. If you die or fail you must reset and reclear the entire zone to try again.
 
@@ -55,7 +55,7 @@ _{{ requirement }}_
 
 !> **DO NOT** run ahead toward the bridge leading to the {{ data.boss }} gauntlet until the entire group is prepared. If you do so, step back across the bridge and wait for the spawned dog pack to come forward and be killed.
 
-> If the entire group is going to do the achievement simultaneously you may want to use (2) healers for the gauntlet as well as the actual {{ data.boss }} fight. Any individual that dies cannot receive credit, so take your time and ensure survival throughout the entire process.
+> If the entire group is going to do the achievement simultaneously you may want to use `2` healers for the gauntlet as well as the actual {{ data.boss }} fight. Any individual that dies cannot receive credit, so take your time and ensure survival throughout the entire process.
 
 - Fight through the {{ data.boss }} gauntlet as normal then clear the final pre-boss trash room.
 - Ensure that your Focus unit frame is displayed on screen and is reasonably large in size.

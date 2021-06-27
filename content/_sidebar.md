@@ -1,4 +1,15 @@
 - **Tazavesh, the Veiled Market** <span class="badge bg-yellow">Soon&trade;</span>
+- **Glory of the Nathria Raider**
+  - [Blind as a Bat](glory-of-the-nathria-raider/blind-as-a-bat.md)
+  - [Taking Care of Business](glory-of-the-nathria-raider/taking-care-of-business.md)
+  - [Feed the Beast](glory-of-the-nathria-raider/feed-the-beast.md)
+  - [I Don't Know What I Expected](glory-of-the-nathria-raider/i-dont-know-what-i-expected.md)
+  - [Burning Bright](glory-of-the-nathria-raider/burning-bright.md)
+  - [Private Stock](glory-of-the-nathria-raider/private-stock.md)
+  - [Pour Decision Making](glory-of-the-nathria-raider/pour-decision-making.md)
+  - [Dirtflap's Revenge](glory-of-the-nathria-raider/dirtflaps-revenge.md)
+  - [Feed Me, Seymour!](glory-of-the-nathria-raider/feed-me-seymour.md)
+  - [Clean Conscience](glory-of-the-nathria-raider/clear-conscience.md)
 - **Glory of the Shadowlands Hero**
   - **De Other Side**
     - [Couple's Therapy](glory-of-the-shadowlands-hero/de-other-side/couples-therapy.md)

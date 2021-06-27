@@ -44,5 +44,5 @@ _{{ requirement }}_
 ## Strategy
 
 1. Move through the maze as normal.
-2. Kill {{ data.boss }}. This will close all gated doorways within the maze allowing free movement.
+2. Kill {{ data.boss }}. This will open all gated doorways within the maze allowing free movement.
 3. Traverse around the maze to find and interact with all `6` toys.

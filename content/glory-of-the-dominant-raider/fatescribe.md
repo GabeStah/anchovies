@@ -15,7 +15,7 @@ difficulty:
   very_hard:
     style: 'color: #da0000;'
     name: Very Hard
-requirement: "Defeat Fatescribe Roh-Kalo without taking damage from Fate Fragments, Fated Conjunction, or the explosions from Call of Eternity and Echo of Eternity on Normal difficulty or higher."
+requirement: 'Defeat Fatescribe Roh-Kalo without taking damage from Fate Fragments, Fated Conjunction, or the explosions from Call of Eternity and Echo of Eternity on Normal difficulty or higher.'
 title: 'Flawless Fate'
 video: https://www.youtube.com/watch?v=fDd7_Se6rsw&list=PLEimyKsVBkYA4WRM-CHJAJhU72UJwMJ3P&index=7
 ---
@@ -26,10 +26,11 @@ _{{ requirement }}_
 
 > - Difficulty: **<span style="{{ difficulty.moderate.style }}">{{ difficulty.moderate.name }}</span>**
 > - Video: [YouTube]({{ video }})
+> - Trackable: ???
 
 ## Details
 
-> You can't get  Flawless Fate If you died from the boss melee hit at the start and stay dead through the whole fight, I tested this for science.
+> You can't get Flawless Fate If you died from the boss melee hit at the start and stay dead through the whole fight, I tested this for science.
 
 This is an individual achievement.
 

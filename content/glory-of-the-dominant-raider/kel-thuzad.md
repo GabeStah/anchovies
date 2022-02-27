@@ -26,6 +26,7 @@ _{{ requirement }}_
 
 > - Difficulty: **<span style="{{ difficulty.moderate.style }}">{{ difficulty.moderate.name }}</span>**
 > - Video: [YouTube]({{ video }})
+> - Trackable: ???
 
 ## Details
 
@@ -41,8 +42,8 @@ After petting him, he will run off to the next spot.
 
 The next spot is after The Nine, but before Soulrender Dormazain/Painsmith Raznal/Remnant of Ner'zhul. You can either clear all the trash on the Soulrender Dormazain side, or have a demon hunter jump over the gap on the Remnant of Ner'zhul side. After petting him, he will run off again.
 
-Mr. Bigglesworth will be located next to the door on the right side in KT's room. Click on him to pick him up.  Carrying Mr. Bigglesworth will put a slight slow on the person carrying him.
+Mr. Bigglesworth will be located next to the door on the right side in KT's room. Click on him to pick him up. Carrying Mr. Bigglesworth will put a slight slow on the person carrying him.
 
-The person who is  Carrying Mr. Bigglesworth should be in the Phylactery group. They will have an extra action button to "delivery cat", which will the Remnant of Kel'Thuzad the have 500% increase in damage.
+The person who is Carrying Mr. Bigglesworth should be in the Phylactery group. They will have an extra action button to "delivery cat", which will the Remnant of Kel'Thuzad the have 500% increase in damage.
 
 Finish the fight as normal to get the achievement.

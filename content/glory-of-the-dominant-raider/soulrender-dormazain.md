@@ -26,6 +26,7 @@ _{{ requirement }}_
 
 > - Difficulty: **<span style="{{ difficulty.moderate.style }}">{{ difficulty.moderate.name }}</span>**
 > - Video: [YouTube]({{ video }})
+> - Trackable: Yes?
 
 ## Details
 

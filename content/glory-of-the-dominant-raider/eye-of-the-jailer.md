@@ -15,8 +15,8 @@ difficulty:
   very_hard:
     style: 'color: #da0000;'
     name: Very Hard
-requirement: "Defeat the Eye of the Jailer after using the Scavenged S.E.L.F.I.E. Camera to take a picture of the Eye of the Jailer and the entire raid after it has cast Immediate Extermination in the Sanctum of Domination on Normal difficulty or higher."
-title: "Eye Wish You Were Here"
+requirement: 'Defeat the Eye of the Jailer after using the Scavenged S.E.L.F.I.E. Camera to take a picture of the Eye of the Jailer and the entire raid after it has cast Immediate Extermination in the Sanctum of Domination on Normal difficulty or higher.'
+title: 'Eye Wish You Were Here'
 video: https://www.youtube.com/watch?v=gX_EHbMJbrE&list=PLEimyKsVBkYA4WRM-CHJAJhU72UJwMJ3P&index=2
 ---
 
@@ -26,14 +26,15 @@ _{{ requirement }}_
 
 > - Difficulty: **<span style="{{ difficulty.easy.style }}">{{ difficulty.easy.name }}</span>**
 > - Video: [YouTube]({{ video }})
+> - Trackable: ???
 
 ## Details
 
 Do the fight as normal, bringing the eye down to 33 percent to start phase 3, during the earlier phases, make sure to keep the center of the room clear.
 
-After the boss casts  Immediate Extermination, click on the satchel in the back of the room, this contains the  Scavenged S.E.L.F.I.E. Camera (note this cannot be clicked before phase 3).
+After the boss casts Immediate Extermination, click on the satchel in the back of the room, this contains the Scavenged S.E.L.F.I.E. Camera (note this cannot be clicked before phase 3).
 
-Take a selfie and get everyone in the raid and the boss the  Photoflash! debuff.
+Take a selfie and get everyone in the raid and the boss the Photoflash! debuff.
 
 If you move closer to the eye makes it easier to get the boss the photoflash! debuff. (this can be a pain to do, I recommend practicing beforehand with a normal selfie camera)
 

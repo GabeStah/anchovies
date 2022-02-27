@@ -1,4 +1,15 @@
 - **Tazavesh, the Veiled Market** <span class="badge bg-yellow">Soon&trade;</span>
+- **Glory of the Dominant Raider**
+  - [Name a Better Duo, I'll Wait](glory-of-the-dominant-raider/tarragrue.md)
+  - [Eye Wish You Were Here](glory-of-the-dominant-raider/eye-of-the-jailer.md)
+  - [To the Nines](glory-of-the-dominant-raider/the-nine.md)
+  - [Tormentor's Tango](glory-of-the-dominant-raider/soulrender-dormazain.md)
+  - [I Used to Bullseye Deeprun Rats Back Home](glory-of-the-dominant-raider/remnant-of-nerzhul.md)
+  - [Whack-A-Soul](glory-of-the-dominant-raider/painsmith.md)
+  - [Knowledge is Power](glory-of-the-dominant-raider/guardian-of-the-first-ones.md)
+  - [Flawless Fate](glory-of-the-dominant-raider/fatescribe.md)
+  - [Together Forever](glory-of-the-dominant-raider/kel-thuzad.md)
+  - [This World is a Prism](glory-of-the-dominant-raider/sylvanas-windrunner.md)
 - **Glory of the Nathria Raider**
   - [Blind as a Bat](glory-of-the-nathria-raider/blind-as-a-bat.md)
   - [Taking Care of Business](glory-of-the-nathria-raider/taking-care-of-business.md)
